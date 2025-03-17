@@ -1,0 +1,7 @@
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\bin\Debug\SkrivnostniLaboratorij.exe.config
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\bin\Debug\SkrivnostniLaboratorij.exe
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\bin\Debug\SkrivnostniLaboratorij.pdb
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\obj\Debug\SkrivnostniLaboratorij.csproj.AssemblyReference.cache
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\obj\Debug\SkrivnostniLaboratorij.csproj.CoreCompileInputs.cache
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\obj\Debug\SkrivnostniLaboratorij.exe
+C:\Users\Anej\Desktop\sola\c#\SkrivnostniLaboratorij\SkrivnostniLaboratorij\obj\Debug\SkrivnostniLaboratorij.pdb
